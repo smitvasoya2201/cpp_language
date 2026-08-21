@@ -3,7 +3,7 @@
 using namespace std;
 
 class TimeConveter 
-{ 
+{    
     public :
     int hours, minutes, seconds;
 
