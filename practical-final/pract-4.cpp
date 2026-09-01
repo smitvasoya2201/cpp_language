@@ -9,7 +9,7 @@ private:
     float speed;
 
 public:
-    virtual void displayDetails() = 0; // Pure virtual function
+    virtual void displayDetails() {}; 
 
     Vehical(string model, float speed)
     {

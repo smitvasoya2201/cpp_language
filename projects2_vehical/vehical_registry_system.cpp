@@ -195,7 +195,7 @@ int main()
                 cout << "Enter battery capacity: ";
                 cin >> batteryCapacity;
                
-                v.addVehicle(vehicleID  manufacturer);
+                v.addVehicle();
 
                 break;
 
